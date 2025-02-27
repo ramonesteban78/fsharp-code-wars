@@ -1,0 +1,58 @@
+# Compiled source files
+*.dll
+*.exe
+*.so
+*.dylib
+*.pyc
+*.pyo
+*.pdb
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider specific files
+.idea/
+.idea_modules/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/.idea/
+.idea/.idea_modules/
+.idea/.idea/workspace.xml
+.idea/.idea/tasks.xml
+.idea/.idea/dictionaries
+.idea/.idea/libraries
+.idea/.idea/vcs.xml
+.idea/.idea/jsLibraryMappings.xml
+
+# Build directories
+bin/
+obj/
+
+# Paket dependencies
+.paket/
+paket-files/
+
+# FAKE build
+.fake/
+
+# F# interactive
+.fsi/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp

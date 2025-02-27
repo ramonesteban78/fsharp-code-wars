@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpCodeWars", "FSharpCodeWars\FSharpCodeWars.fsproj", "{8A63A13E-2B04-4558-9F19-EE327A5FA859}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpCodeWarsTests", "FSharpCodeWarsTests\FSharpCodeWarsTests.fsproj", "{F178E0DE-4CA3-448D-B256-0936D449016E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A63A13E-2B04-4558-9F19-EE327A5FA859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A63A13E-2B04-4558-9F19-EE327A5FA859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A63A13E-2B04-4558-9F19-EE327A5FA859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A63A13E-2B04-4558-9F19-EE327A5FA859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F178E0DE-4CA3-448D-B256-0936D449016E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F178E0DE-4CA3-448D-B256-0936D449016E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F178E0DE-4CA3-448D-B256-0936D449016E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F178E0DE-4CA3-448D-B256-0936D449016E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
